@@ -1,0 +1,6 @@
+{
+  "name": "Azizbek AI",
+  "description": "3D animatsiyali va ovozli boshqaruvga ega interaktiv AI yordamchi. Raxmiddinov Azizbek tomonidan yaratilgan.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
